@@ -1,5 +1,6 @@
-# Seminario_Aprendizaje_Activo_en_Ingenieria_Mecanica
+# Seminario: Aprendizaje Activo en Ingenieria Mecanica con MATLAB y Simulink
 
+Empieza aquí [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_Aprendizaje_Activo_en_Ingenieria_Mecanica&file=Livescript_Guia.mlx)
 Este seminario explora cómo estas nuevas formas de enseñanza requieren que los educadores rediseñen sus cursos y adopten herramientas innovadoras que potencien el aprendizaje activo de los estudiantes.
 
 Durante la sesión, se presentarán recursos desarrollados por MathWorks, orientados a facilitar la educación de la próxima generación de ingenieros mecánicos. Se abordarán herramientas que promueven el aprendizaje independiente y el acceso flexible a los contenidos mediante plataformas en la nube, tanto para profesores como para alumnos.
